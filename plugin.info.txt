@@ -1,0 +1,7 @@
+base   ipgroup2
+author Phy25
+email  ipgroup2@phy25.com
+date   2017-04-15
+name   IP Group
+desc   Map IP to user groups based on ipgroup
+url    https://www.dokuwiki.org/plugin:ipgroup2
